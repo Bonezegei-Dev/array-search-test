@@ -1,2 +1,2 @@
 # string-parser
-basic string parser for data extraction. 
+basic array parser for extracting data. 
